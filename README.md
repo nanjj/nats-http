@@ -12,5 +12,5 @@ In a separate terminal
 
 ```bash
 > curl -i localhost:8080/foo
-> nats-req foo hello
+> nats req foo hello
 ```
